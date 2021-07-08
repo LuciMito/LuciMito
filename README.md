@@ -1,6 +1,6 @@
 # Salve!👋
 
-<img src="https://64.media.tumblr.com/69fab59d44f5c6312d16bf93b6be92b1/tumblr_mugucog6AC1rfjowdo1_500.gifv" alt="rails" width="100" height="100" style="max-width:100%;"></img>
+<img src="https://blog.lootcrate.com/wp-content/uploads/2017/07/futurama_tt_header.gif" alt="rails" height="180" style="max-width:100%;"></img>
 
 #### Eu sou o Luciano Corrêa, também conhecido por LuciMito e por outras alcunhas, muito prazer. Eu gosto de muitas coisas, mas além de jogar basquete e Sea of Thieves, sou apaixonado por arte, por isso dedico meu tempo praticando e aprimorando minhas habilidades, seja em projetos ou apenas para adicionar ao meu portifolio.
 #### Ah! Falando em portfolio, caso queira ver alguns dos meus trabalhos, pode clicar em um dos icones abaixo:
